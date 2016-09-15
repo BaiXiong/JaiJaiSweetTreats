@@ -1,2 +1,2 @@
 # JaiJaiSweetTreats
-Cake website in ASP.NET MVC
+Responsive Cake website built with Angular JS 2 and Bootstrap.
